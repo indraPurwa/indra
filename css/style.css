@@ -1,0 +1,18 @@
+html,
+body,
+header,
+#beranda{
+	height: 100%;
+}
+#beranda{
+	background: url(../img/bg.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.blockquote p {
+
+    padding-bottom: 0;
+    padding-top: 0;
+}
